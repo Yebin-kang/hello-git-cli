@@ -1,4 +1,8 @@
 hihi
 four - my branch
 3-my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> ded8d84 (새로운 기능 1 추가)
